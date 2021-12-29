@@ -3,11 +3,13 @@
 1.  Find Spectrums that the Communications Authority may not be monitoring
 2.  Show examples of how other countries cover them
 3.  Show proof of their profitability / benefit
-4.  
+
 
 # Project Topic, Background, Audience
 
-## Spectrum Description
+## Topic: Spectrum
+
+### Spectrum Definition
 
 Spectrum Management is the art and science of managing the use of the radio spectrum in order to minimize interference and ensure radio spectrum is used to its most efficient extent and benefit for the public.
 
@@ -25,8 +27,28 @@ SACFA is the decision-making authority for allocation of spectrum frequency. Tel
 
 
 ### Spectrum Types
+[https://www.ctia.org/news/what-is-spectrum-a-brief-explainer]
 
-
+1.  Spectrum is the invisible radio frequencies that wireless signals travel over.
+2.  Electromagnetic spectrum is the frequency for wireless use.
+3.  Portions of electromagnetic sprectrum are grouped in bands depending on their wavelengths.
+4.  The wavelength is thedistance over which the wave's shape repeats
+5.  The full electromagnetic spectrum ranges from 3Hz (extremely low frequency,) to 300 EHz (gamma rays.)
+6.  Wireless communication is from 20KHz to 300GHz.
+7.  Radio spectrum is the range of radio frequency that are used for communicating.
+8.  Spectrum is the entire range of frequencies, like a radio dial that goes up and down to locate an operating radio station, but expanded to assign to other users like mobile phones, satellite TV, air traffic control, or police radios.
+9.  Different bands have different characteristics
+10.  For wireless communication, spectrum has the three categories: low, mid, and high band spectrum.
+11.  All three bands are needed for a robust 5G network.
+12.  In the US, the Federal Communications Commission (FCC) oversees the commercial sprectrum allocation.
+13.  The FCC collborates with the National Telecommunications and Information Administration (NTIA) to oversee the government use of spectrum, international bodies, and congress.
+14.  FCC often allocates spectrum for commercial use through a spectrum auction, raising money for the US Treasury
+15.  Spectrum can be licensed (for exclusive use by specific providers,) or unlicensed (anyone can use the frequency.)
+16.  Both licensed and unlicensed spectrum serve important functions.
+17.  Bluetooth devices and Wi-Fi connections rely o unlicensed bands.
+18.  Spectrum is a finite resource, but it can be repurposed.
+19.  The FCC controls 60% of spectrum and regulations and legistlation can help identify bands that the government reallocate for commercial use.
+20.  Spectrum is a highly complex comcept and the core component of wireless communications.  The benefits of 5G, smart cities, telemedicine. agricultural advencements, and more effective use.
 
 
 ## Project Goal
