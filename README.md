@@ -2,7 +2,7 @@
 
 1.  Explain the Spectrum Concept
 2.  Find Spectrums that the Communications Authority may not be monitoring
-3.  Show examples of how other countries cover them
+3.  Show examples of how other authorities cover them
 4.  Show proof of their profitability / benefit
 
 
