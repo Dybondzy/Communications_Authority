@@ -28,7 +28,7 @@
 14.  FCC often allocates spectrum for commercial use through a spectrum auction, raising money for the US Treasury
 15.  Spectrum can be licensed (for exclusive use by specific providers,) or unlicensed (anyone can use the frequency.)
 16.  Both licensed and unlicensed spectrum serve important functions.
-17.  Bluetooth devices and Wi-Fi connections rely o unlicensed bands.
+17.  Bluetooth devices and Wi-Fi connections rely on unlicensed bands.
 18.  Spectrum is a finite resource, but it can be repurposed.
 19.  The FCC controls 60% of spectrum and regulations and legistlation can help identify bands that the government reallocate for commercial use.
 20.  Spectrum is a highly complex comcept and the core component of wireless communications; the benefits of 5G, smart cities, telemedicine. agricultural advencements, and more effective use.
@@ -40,9 +40,12 @@
 26.  The spectrum life cycle approach recognizes the following three stages (i) pre-service; (ii) service provision; and (iii) post-service.
 
 
+### List of Spectrums Frequencies
 
 
 ## Project Goal
+Identify Spectrum Regulations and Allocations
+
 
 ## Project Factors
 
