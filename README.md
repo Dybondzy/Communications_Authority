@@ -45,6 +45,7 @@
 
 ## Project Goal
 Identify Spectrum Regulations and Allocations
+Compare various Allocations
 
 
 ## Project Factors
