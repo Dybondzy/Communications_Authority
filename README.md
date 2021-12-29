@@ -31,14 +31,14 @@
 17.  Bluetooth devices and Wi-Fi connections rely o unlicensed bands.
 18.  Spectrum is a finite resource, but it can be repurposed.
 19.  The FCC controls 60% of spectrum and regulations and legistlation can help identify bands that the government reallocate for commercial use.
-20.  Spectrum is a highly complex comcept and the core component of wireless communications.  The benefits of 5G, smart cities, telemedicine. agricultural advencements, and more effective use.
+20.  Spectrum is a highly complex comcept and the core component of wireless communications; the benefits of 5G, smart cities, telemedicine. agricultural advencements, and more effective use.
 21.  Spectrum Management manages the use of the radio spectrum in order to minimize interference and ensure radio spectrum is used to its most efficient extent and benefit for the public.
-22.  The Federal Communications Commission (FCC) manages and regulates all domestic non-federal spectrum use
+22.  The FCC manages and regulates all domestic non-federal spectrum use.
 23.  Efficient use and allocation of spectrum will allow the FCC to respond swiftly, maintain contact, and speedily resolve life-threatening situations. 
 24.  Effectively managing spectrum will be vital as the next generation of wireless technology – 5G – and the growing number of wireless devices comes on stream.
-25.  Spectrum regulation is to protect frequencies used by critical services by preventing harmful interference; identify opportunities to maximize efficiency. allow new technologies to develop and deploy within flexible frameworks; and, reduce the cost of telecommunication equipment.
-26.  The spectrum life cycle approach (Jain, 2010) that recognizes the following three stages (i) pre-service; (ii) service provision; and (iii) post-service.
-27.  The 5G spectrum is a range of radio frequencies in the sub-6 GHz range and the millimeter-wave (mmWave) frequency range that is 24.25 GHz and above. The 5G spectrum refers to the radio frequencies that carry data from user equipment (UE) to cellular base stations to the data's endpoint.
+25.  Spectrum regulation is to protect frequencies used by critical services by preventing harmful interference; identify opportunities to maximize efficiency; allow new technologies to develop and deploy within flexible frameworks; and, reduce the cost of telecommunication equipment.
+26.  The spectrum life cycle approach recognizes the following three stages (i) pre-service; (ii) service provision; and (iii) post-service.
+
 
 
 
