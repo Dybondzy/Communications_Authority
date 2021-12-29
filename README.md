@@ -11,7 +11,6 @@
 ## Topic: Spectrum
 
 ### Spectrum Introduction and Types
-[https://www.ctia.org/news/what-is-spectrum-a-brief-explainer]
 
 1.  Spectrum is the invisible radio frequencies that wireless signals travel over.
 2.  Electromagnetic spectrum is the frequency for wireless use.
