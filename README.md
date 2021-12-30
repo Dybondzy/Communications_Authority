@@ -79,7 +79,8 @@ GitHub
 ## Description of Data Sources
 [https://www.ctia.org/news/what-is-spectrum-a-brief-explainer]
 google search
-[chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Ftransition.fcc.gov%2Foet%2Fspectrum%2Ftable%2Ffcctable.pdf&clen=2071133&chunk=true]!
+
+[chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Ftransition.fcc.gov%2Foet%2Fspectrum%2Ftable%2Ffcctable.pdf&clen=2071133&chunk=true]
 
 
 # Database
