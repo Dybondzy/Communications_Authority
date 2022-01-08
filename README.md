@@ -88,11 +88,11 @@ Also:
 13. Two-way radio
 (A two-way radio is a radio that can both transmit and receive radio waves (a transceiver), unlike a broadcast receiver which only receives content. It is an audio (sound) transceiver, a transmitter and receiver in one unit, used for bidirectional person-to-person voice communication with other users with similar radios. Two-way radios are available in stationary (base station), mobile (installed in vehicles), and hand-held portable models. Hand-held two-way radios are often called walkie-talkies, handie-talkies or hand-helds. Two-way radios are used by groups of geographically separated people who need to keep in continuous voice communication, such as aircraft pilots and air traffic controllers, ship captains and harbormasters, emergency services personnel like firefighters, police officers, and ambulance paramedics, taxi and delivery services, soldiers and military units, fast food and warehouse employees, and radio amateurs)
 14. U-NII
-()
+(The Unlicensed National Information Infrastructure (U-NII)[1][2] radio band, as defined by the United States Federal Communications Commission, is part of the radio frequency spectrum used by WLAN devices and by many wireless ISPs)
 15. Ultra-wideband
-()
+(Ultra-wideband (UWB, ultra wideband, ultra-wide band and ultraband) is a radio technology that can use a very low energy level for short-range, high-bandwidth communications over a large portion of the radio spectrum.[1] UWB has traditional applications in non-cooperative radar imaging. Most recent applications target sensor data collection, precision locating[2] and tracking applications.[3][4] UWB support started to appear in high-end smartphones)
 16. WARC bands
-()
+(The World Administrative Radio Conference (WARC) bands are three portions of the shortwave radio spectrum used by licensed and/or certified amateur radio operators. They consist of 30 meters (10.100–10.150 MHz), 17 meters (18.068–18.168 MHz) and 12 meters (24.890–24.990 MHz).[1][2] They were named after the World Administrative Radio Conference, which in 1979 created a worldwide allocation of these bands for amateur use. The bands were opened for use in the early 1980s. Due to their relatively small bandwidth of 100 kHz or less, there is a gentlemen's agreement that the WARC bands may not be used for general contesting)
 17. Tremendously low frequency (TLF) (electromagnetic radiation, frequency below 3 Hz) [18]
 ()
 
