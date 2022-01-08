@@ -41,6 +41,45 @@
 
 
 ### List of Spectrums Frequencies
+A radio band is a small contiguous section of the radio spectrum frequencies, in which channels are usually used or set aside for the same purpose. To prevent interference and allow for efficient use of the radio spectrum, similar services are allocated in bands. For example, broadcasting, mobile radio, or navigation devices, will be allocated in non-overlapping ranges of frequencies.
+2	Bands
+2.1	ITU
+2.2	IEEE radar bands
+2.3	EU, NATO, US ECM frequency designations
+2.4	Waveguide frequency bands
+2.5	Comparison of radio band designation standards
+
+3	Applications
+3.1	Broadcasting
+3.2	Air band
+3.3	Marine band
+3.4	Amateur radio frequencies
+3.5	Citizens' band and personal radio services
+3.6	Industrial, scientific, medical
+3.7	Land mobile bands
+3.8	Radio control
+3.9	Radar
+
+Also:
+Bandplan
+Bandstacked
+Cellular frequencies
+DXing
+Frequency allocation
+Geneva Frequency Plan of 1975
+North American Regional Broadcasting Agreement
+Open spectrum
+Orbit spectrum
+Radio astronomy
+Radio § Communication system
+Scanner (radio)
+Two-way radio
+U-NII
+Ultra-wideband
+WARC bands
+Tremendously low frequency (TLF) (electromagnetic radiation, frequency below 3 Hz) [18]
+
+
 
 
 ## Project Goal
@@ -83,6 +122,8 @@ google search
 [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Ftransition.fcc.gov%2Foet%2Fspectrum%2Ftable%2Ffcctable.pdf&clen=2071133&chunk=true]
 !
 [http://www.ntia.doc.gov/osmhome/allochrt.html]
+!
+[https://en.wikipedia.org/wiki/Radio_spectrum]
 !
 []
 
