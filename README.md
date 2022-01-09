@@ -50,6 +50,7 @@ A radio band is a small contiguous section of the radio spectrum frequencies, in
 4	Waveguide frequency bands
 5	Comparison of radio band designation standards
 
+
 ### Applications
 
 #### Broadcasting
