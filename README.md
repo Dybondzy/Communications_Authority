@@ -97,7 +97,7 @@ A radio band is a small contiguous section of the radio spectrum frequencies, in
 17. Tremendously low frequency (TLF) (electromagnetic radiation, frequency below 3 Hz) [18]
 
 
-## Spectrum allocation in Ghana
+## Spectrum Allocation in Ghana
 The National Communications Authority (NCA) has published the National Frequency Allocation Table (NFAT) for wireless communications services in Ghana.  The NFAT is one of the most important tools for effective spectrum management; It details the uses of the various frequency bands for the numerous radio communication service categories in accordance with the Radio Regulations of the International Telecommunication Union (ITU).
 
 The objective of developing the NFAT is to maximize the efficient use of radio spectrum while assuring that spectrum is made available for new technologies and services. The table contains current uses of spectrum and those that may be used in future.
@@ -157,7 +157,7 @@ List and Compare the covered Spectrum
 ...
 
 ## Questions to Investigate During Project
-What spectrums are licesed in the USA but in Ghana
+What spectrums are licesed in the USA but not in Ghana
 
 
 ## Roles
