@@ -279,6 +279,73 @@ GitHub
 # ETL Method
 ...
 
+
+USA Spectrum
+	Application	  Type
+1	Broadcasting	Television
+2	Broadcasting	FM Radio
+3	Broadcasting	Cellular Phone
+4	Air band	VHF Radio
+5	Air band	HF Radio
+6	Marine band	Marine VHFRadio
+7	Amateur radio frequencies	VHF Radio
+8	Amateur radio frequencies	HF Radio
+9	Citizens' band and personal radio services	UHF CB Radio
+10	Industrial, scientific, medical	Microwave Ovens
+11	Industrial, scientific, medical	Cordless Telephones
+12	Industrial, scientific, medical	Wireless Computer Networks
+13	Industrial, scientific, medical	Bluetooh Devices
+14	Industrial, scientific, medical	Garage Door Openers
+15	Land mobile bands	Base Stations
+16	Land mobile bands	Land Mobile / Portable Tranceivers
+17	Land mobile bands	Business Band Radio
+18	Land mobile bands	Professional Mobile Radio
+19	Land mobile bands	Police Radio
+20	Land mobile bands	Trunking Systems
+21	Radio control	Radio Control
+22	Radio control	Unlicensed Spectrum
+23	Radio control	Radio Control
+24	Radio control	Amateur Radio
+25	Radio control	6-meter band
+26	Radio control	Railway Locomotives
+27	Radar	Radar
+28	Radar	Microwave
+29	Radar	Meteorology
+
+
+
+Ghana Spectrum
+	Application	        Type
+1	Telecommunications	Mobile Cellular (2G/3G)
+2	Telecommunications	Broadband Wireless Access
+3	Telecommunications	Fixed Licence
+4	Telecommunications	Interconnect Clearing House (ICH)
+5	Telecommunications	Mobile Virtual Network Operations (MVNO)
+6	Telecommunications	International Wholesale Carrier Licence
+7	Telecommunications	Internet/Public Data Service Provision
+8	Telecommunications	VSAT Licences
+9	Telecommunications	Numbering (SIM, M2M, Short Codes etc.)
+10	Telecommunications	International Inbound Traffic
+11	Telecommunications	Microwave Authorisation
+12	Telecommunications	Telemetry, SCADA, Alarms
+13	Telecommunications	Maritime Radio Services
+14	Telecommunications	Aeronautical Radio Services
+15	Broadcasting	Television Broadcasting
+16	Broadcasting	Radio FM Broadcasting
+17	Broadcasting	Amateur Radio
+18	Broadcasting	Satellite
+19	Standards	Type Approval
+20	Standards	Dealership
+21	Standards	DTT Conformance Certification
+22	Infrastructure	Infrastructure Licence (Nationwide or Metro Fibre)
+23	Infrastructure	Submarine Cable Landing
+24	Infrastructure	Mast & Towers
+25	Other Services	Communications Managed and Support Service Licence
+26	Other Services	Public Radio Equipment (PRE) or Land Mobile Services
+27	Other Services	Value Added Services (VAS)
+
+
+
 ## Extracting the Data
 ...
 
