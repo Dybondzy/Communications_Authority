@@ -161,8 +161,22 @@ What spectrums are licesed in the USA but in Ghana
 
 
 ## Roles
-John Essuman    Deputy Director of Research
-Dinah Bondzie   Data Engineer
+
+John Essuman    Deputy Director of Research  -  Statement of Work
+
+Dinah Bondzie   Data Engineer                -  Consultant / Prok=ject Lead
+
+X role --- 
+X: The member in the X role will decide which technologies will be used for each step of the project.
+
+Square --- 
+Square: The team member in the square role will be responsible for the repository.
+
+Triangle --- 
+Triangle: The member in the triangle role will create a mockup of a machine learning model.
+
+Circle --- 
+Circle: The member in the circle role will create a mockup of a database with a set of sample data, or even fabricated data.\
 
 
 ## Technologies Used
@@ -173,7 +187,7 @@ pgAdmin - PostgreSQL
 ### Data Cleaning and Analysis
 Juypter Notebook - Pandas
 
-### 
+### Machine Learning Model
 Google Collab Notebook
 
 ### Presentation of Findings
