@@ -324,41 +324,42 @@ USA Spectrum
 
 
 
+
 Ghana Spectrum
 
 	Application	        Type
 	
-1	Telecommunications	Mobile Cellular (2G/3G)
-2	Telecommunications	Broadband Wireless Access
-3	Telecommunications	Fixed Licence
-4	Telecommunications	Interconnect Clearing House (ICH)
-5	Telecommunications	Mobile Virtual Network Operations (MVNO)
-6	Telecommunications	International Wholesale Carrier Licence
-7	Telecommunications	Internet/Public Data Service Provision
-8	Telecommunications	VSAT Licences
-9	Telecommunications	Numbering (SIM, M2M, Short Codes etc.)
-10	Telecommunications	International Inbound Traffic
-11	Telecommunications	Microwave Authorisation
-12	Telecommunications	Telemetry, SCADA, Alarms
-13	Telecommunications	Maritime Radio Services
-14	Telecommunications	Aeronautical Radio Services
+1	Telecommunications:	Mobile Cellular (2G/3G)
+2		Broadband Wireless Access
+3		Fixed Licence
+4		Interconnect Clearing House (ICH)
+5		Mobile Virtual Network Operations (MVNO)
+6		International Wholesale Carrier Licence
+7		Internet/Public Data Service Provision
+8		VSAT Licences
+9		Numbering (SIM, M2M, Short Codes etc.)
+10		International Inbound Traffic
+11		Microwave Authorisation
+12		Telemetry, SCADA, Alarms
+13		Maritime Radio Services
+14		Aeronautical Radio Services
 
-15	Broadcasting	Television Broadcasting
-16	Broadcasting	Radio FM Broadcasting
-17	Broadcasting	Amateur Radio
-18	Broadcasting	Satellite
+15	Broadcasting:	Television Broadcasting
+16		Radio FM Broadcasting
+17		Amateur Radio
+18		Satellite
 
-19	Standards	Type Approval
-20	Standards	Dealership
-21	Standards	DTT Conformance Certification
+19	Standards:	Type Approval
+20		Dealership
+21		DTT Conformance Certification
 
-22	Infrastructure	Infrastructure Licence (Nationwide or Metro Fibre)
-23	Infrastructure	Submarine Cable Landing
-24	Infrastructure	Mast & Towers
+22	Infrastructure:	Infrastructure Licence (Nationwide or Metro Fibre)
+23		Submarine Cable Landing
+24		Mast & Towers
 
-25	Other Services	Communications Managed and Support Service Licence
-26	Other Services	Public Radio Equipment (PRE) or Land Mobile Services
-27	Other Services	Value Added Services (VAS)
+25	Other Services:	Communications Managed and Support Service Licence
+26		Public Radio Equipment (PRE) or Land Mobile Services
+27		Value Added Services (VAS)
 
 
 
