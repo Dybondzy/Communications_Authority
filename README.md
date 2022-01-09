@@ -1,9 +1,9 @@
 # Communications_Authority
 
 1.  Explain the Spectrum Concept
-2.  Find Spectrums that the Communications Authority may not be monitoring
-3.  Show examples of how other authorities cover them
-4.  Show proof of their profitability / benefit
+2.  Find types of Spectrums covered in the USA
+3.  Find types of Spectrums covered in the Ghana
+4.  Present findings
 
 
 # Project Topic, Background, Audience
@@ -40,7 +40,7 @@
 26.  The spectrum life cycle approach recognizes the following three stages (i) pre-service; (ii) service provision; and (iii) post-service.
 
 
-### List of Spectrums Frequencies
+## List of Spectrums Frequencies
 A radio band is a small contiguous section of the radio spectrum frequencies, in which channels are usually used or set aside for the same purpose. To prevent interference and allow for efficient use of the radio spectrum, similar services are allocated in bands. For example, broadcasting, mobile radio, or navigation devices, will be allocated in non-overlapping ranges of frequencies.
 2	Bands
 2.1	ITU
@@ -94,8 +94,53 @@ Also:
 16. WARC bands
 (The World Administrative Radio Conference (WARC) bands are three portions of the shortwave radio spectrum used by licensed and/or certified amateur radio operators. They consist of 30 meters (10.100–10.150 MHz), 17 meters (18.068–18.168 MHz) and 12 meters (24.890–24.990 MHz).[1][2] They were named after the World Administrative Radio Conference, which in 1979 created a worldwide allocation of these bands for amateur use. The bands were opened for use in the early 1980s. Due to their relatively small bandwidth of 100 kHz or less, there is a gentlemen's agreement that the WARC bands may not be used for general contesting)
 17. Tremendously low frequency (TLF) (electromagnetic radiation, frequency below 3 Hz) [18]
-()
 
+
+## Spectrum allocation in Ghana
+The National Communications Authority (NCA) has published the National Frequency Allocation Table (NFAT) for wireless communications services in Ghana.  The NFAT is one of the most important tools for effective spectrum management; It details the uses of the various frequency bands for the numerous radio communication service categories in accordance with the Radio Regulations of the International Telecommunication Union (ITU).
+
+The objective of developing the NFAT is to maximize the efficient use of radio spectrum while assuring that spectrum is made available for new technologies and services. The table contains current uses of spectrum and those that may be used in future.
+
+### Licensing and Authorisation:
+
+### Telecommunication
+Telecommunications:
+Mobile Cellular (2G/3G)
+Broadband Wireless Access
+Fixed Licence
+Interconnect Clearing House (ICH)
+Mobile Virtual Network Operations (MVNO)
+International Wholesale Carrier Licence
+Internet/Public Data Service Provision
+VSAT Licences
+Numbering (SIM, M2M, Short Codes etc.)
+International Inbound Traffic
+Microwave Authorisation
+Telemetry, SCADA, Alarms
+Maritime Radio Services
+Aeronautical Radio Services
+
+### Broadcasting
+Television Broadcasting:
+Radio FM Broadcasting
+Amateur Radio
+Satellite
+
+### Standards
+Standards:
+Type Approval
+Dealership
+DTT Conformance Certification
+
+### Infrastructure
+Infrastructure:
+Infrastructure Licence (Nationwide or Metro Fibre)
+Submarine Cable Landing
+Mast & Towers
+
+### Other Services
+Other Services:
+Communications Managed and Support Service Licence
 
 
 
@@ -141,6 +186,8 @@ google search
 [http://www.ntia.doc.gov/osmhome/allochrt.html]
 !
 [https://en.wikipedia.org/wiki/Radio_spectrum]
+!
+[https://nca.org.gh/2019/02/22/nca-publishes-national-frequency-allocation-table/]
 !
 []
 
