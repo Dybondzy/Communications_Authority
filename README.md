@@ -51,15 +51,35 @@ A radio band is a small contiguous section of the radio spectrum frequencies, in
 5	Comparison of radio band designation standards
 
 ### Applications
-1	Broadcasting
-2	Air band
-3	Marine band
-4	Amateur radio frequencies
-5	Citizens' band and personal radio services
-6	Industrial, scientific, medical
-7	Land mobile bands
-8	Radio control
-9	Radar
+
+#### Broadcasting
+...
+
+#### Air band
+...
+
+#### Marine band
+...
+
+#### Amateur radio frequencies
+...
+
+#### Citizens' band and personal radio services
+...
+
+#### Industrial, scientific, medical
+...
+
+#### Land mobile bands
+...
+
+#### Radio control
+...
+
+#### Radar
+...
+
+
 
 ### Also:
 1.  Bandplan 
