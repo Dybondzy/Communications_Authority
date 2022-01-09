@@ -54,31 +54,44 @@ A radio band is a small contiguous section of the radio spectrum frequencies, in
 ### Applications
 
 #### Broadcasting
-...
+Designations for television and FM radio broadcast frequencies vary between countries, see Television channel frequencies and FM broadcast band. Since VHF and UHF frequencies are desirable for many uses in urban areas, in North America some parts of the former television broadcasting band have been reassigned to cellular phone and various land mobile communications systems. Even within the allocation still dedicated to television, TV-band devices use channels without local broadcasters.
+
 
 #### Air band
-...
+Airband refers to VHF frequencies 118 to 137 MHz, used for navigation and voice communication with aircraft. Trans-oceanic aircraft also carry HF radio and satellite transceivers.
+
 
 #### Marine band
-...
+The greatest incentive for development of radio was the need to communicate with ships out of visual range of shore. From the very early days of radio, large oceangoing vessels carried powerful long-wave and medium-wave transmitters. High-frequency allocations are still designated for ships, although satellite systems have taken over some of the safety applications previously served by 500 kHz and other frequencies. 2182 kHz is a medium-wave frequency still used for marine emergency communication.
+
 
 #### Amateur radio frequencies
-...
+Amateur radio frequency allocations vary around the world. Several bands are common for amateurs worldwide, usually in the HF part of the spectrum. Other bands are national or regional allocations only due to differing allocations for other services, especially in the VHF and UHF parts of the radio spectrum.
+
 
 #### Citizens' band and personal radio services
-...
+Citizens' band radio is allocated in many countries, using channelized radios in the upper HF part of the spectrum (around 27 MHz). It is used for personal, small business and hobby purposes. Other frequency allocations are used for similar services in different jurisdictions, for example UHF CB is allocated in Australia. A wide range of personal radio services exist around the world, usually emphasizing short-range communication between individuals or for small businesses, simplified license requirements or in some countries covered by a class license, and usually FM transceivers using around 1 watt or less.
+
 
 #### Industrial, scientific, medical
-...
+The ISM bands were initially reserved for non-communications uses of RF energy, such as microwave ovens, radio-frequency heating, and similar purposes. However, in recent years the largest use of these bands has been by short-range low-power communications systems, since users do not have to hold a radio operator's license. Cordless telephones, wireless computer networks, Bluetooth devices, and garage door openers all use the ISM bands. ISM devices do not have regulatory protection against interference from other users of the band.
+
 
 #### Land mobile bands
-...
+Bands of frequencies, especially in the VHF and UHF parts of the spectrum, are allocated for communication between fixed base stations and land mobile vehicle-mounted or portable transceivers. In the United States these services are informally known as business band radio. See also Professional mobile radio.
+
+Police radio and other public safety services such as fire departments and ambulances are generally found in the VHF and UHF parts of the spectrum. Trunking systems are often used to make most efficient use of the limited number of frequencies available.
+
 
 #### Radio control
-...
+Reliable radio control uses bands dedicated to the purpose. Radio-controlled toys may use portions of unlicensed spectrum in the 27 MHz or 49 MHz bands, but more costly aircraft, boat, or land vehicle models use dedicated radio control frequencies near 72 MHz to avoid interference by unlicensed uses. The 21st century has seen a move to 2.4 GHz spread spectrum RC control systems.
+
+Licensed amateur radio operators use portions of the 6-meter band in North America. Industrial remote control of cranes or railway locomotives use assigned frequencies that vary by area.
+
 
 #### Radar
-...
+Radar applications use relatively high power pulse transmitters and sensitive receivers, so radar is operated on bands not used for other purposes. Most radar bands are in the microwave part of the spectrum, although certain important applications for meteorology make use of powerful transmitters in the UHF band.
+
 
 
 
