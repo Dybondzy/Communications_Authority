@@ -284,41 +284,41 @@ USA Spectrum
 
 	Application	  Type
 	
-1	Broadcasting	Television
+1	Broadcasting: 	Television
 2		FM Radio
 3		Cellular Phone
 
-4	Air band	VHF Radio
+4	Air band: 	VHF Radio
 5		HF Radio
 
-6	Marine band	Marine VHFRadio
+6	Marine band:  	Marine VHFRadio
 
-7	Amateur radio frequencies	VHF Radio
+7	Amateur radio frequencies:  	VHF Radio
 8		HF Radio
 
-9	Citizens' band and personal radio services	UHF CB Radio
+9	Citizens' band and personal radio services:  	UHF CB Radio
 
-10	Industrial, scientific, medical	Microwave Ovens
+10	Industrial, scientific, medical:  	Microwave Ovens
 11		Cordless Telephones
 12	Computer Networks
 13	Devices
 14	Garage Door Openers
 
-15	Land mobile bands	Base Stations
+15	Land mobile bands:  	Base Stations
 16		Land Mobile / Portable Tranceivers
 17		Business Band Radio
 18		Professional Mobile Radio
 19		Police Radio
 20		Trunking Systems
 
-21	Radio control	Radio Control
+21	Radio control:  	Radio Control
 22		Unlicensed Spectrum
 23		Radio Control
 24		Amateur Radio
 25		6-meter band
 26		Railway Locomotives
 
-27	Radar	Radar
+27	Radar:  	Radar
 28		Microwave
 29		Meteorology
 
