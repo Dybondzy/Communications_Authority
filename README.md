@@ -145,8 +145,7 @@ Communications Managed and Support Service Licence
 
 
 ## Project Goal
-Identify Spectrum Regulations and Allocations
-Compare various Allocations
+List the covered Spectrum
 
 
 ## Project Factors
