@@ -224,6 +224,9 @@ GitHub
 
 [https://nca.org.gh/2019/02/22/nca-publishes-national-frequency-allocation-table/]
 !
+
+[https://nca.org.gh/licencing-and-authorisation/]
+!
 []
 
 # Database
