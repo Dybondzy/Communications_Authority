@@ -164,7 +164,7 @@ What spectrums are licesed in the USA but not in Ghana
 
 John Essuman    Deputy Director of Research  -  Statement of Work
 
-Dinah Bondzie   Data Engineer                -  Consultant / Prok=ject Lead
+Dinah Bondzie   Data Engineer                -  Consultant / Project Lead
 
 X role --- 
 X: The member in the X role will decide which technologies will be used for each step of the project.
@@ -211,14 +211,17 @@ GitHub
 
 ## Description of Data Sources
 [https://www.ctia.org/news/what-is-spectrum-a-brief-explainer]
-google search
 !
+
 [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Ftransition.fcc.gov%2Foet%2Fspectrum%2Ftable%2Ffcctable.pdf&clen=2071133&chunk=true]
 !
+
 [http://www.ntia.doc.gov/osmhome/allochrt.html]
 !
+
 [https://en.wikipedia.org/wiki/Radio_spectrum]
 !
+
 [https://nca.org.gh/2019/02/22/nca-publishes-national-frequency-allocation-table/]
 !
 []
