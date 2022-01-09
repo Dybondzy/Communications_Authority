@@ -285,42 +285,42 @@ USA Spectrum
 	Application	  Type
 	
 1	Broadcasting	Television
-2	Broadcasting	FM Radio
-3	Broadcasting	Cellular Phone
+2		FM Radio
+3		Cellular Phone
 
 4	Air band	VHF Radio
-5	Air band	HF Radio
+5		HF Radio
 
 6	Marine band	Marine VHFRadio
 
 7	Amateur radio frequencies	VHF Radio
-8	Amateur radio frequencies	HF Radio
+8		HF Radio
 
 9	Citizens' band and personal radio services	UHF CB Radio
 
 10	Industrial, scientific, medical	Microwave Ovens
-11	Industrial, scientific, medical	Cordless Telephones
-12	Industrial, scientific, medical	Wireless Computer Networks
-13	Industrial, scientific, medical	Bluetooh Devices
-14	Industrial, scientific, medical	Garage Door Openers
+11		Cordless Telephones
+12	Computer Networks
+13	Devices
+14	Garage Door Openers
 
 15	Land mobile bands	Base Stations
-16	Land mobile bands	Land Mobile / Portable Tranceivers
-17	Land mobile bands	Business Band Radio
-18	Land mobile bands	Professional Mobile Radio
-19	Land mobile bands	Police Radio
-20	Land mobile bands	Trunking Systems
+16		Land Mobile / Portable Tranceivers
+17		Business Band Radio
+18		Professional Mobile Radio
+19		Police Radio
+20		Trunking Systems
 
 21	Radio control	Radio Control
-22	Radio control	Unlicensed Spectrum
-23	Radio control	Radio Control
-24	Radio control	Amateur Radio
-25	Radio control	6-meter band
-26	Radio control	Railway Locomotives
+22		Unlicensed Spectrum
+23		Radio Control
+24		Amateur Radio
+25		6-meter band
+26		Railway Locomotives
 
 27	Radar	Radar
-28	Radar	Microwave
-29	Radar	Meteorology
+28		Microwave
+29		Meteorology
 
 
 
