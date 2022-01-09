@@ -281,7 +281,9 @@ GitHub
 
 
 USA Spectrum
+
 	Application	  Type
+	
 1	Broadcasting	Television
 2	Broadcasting	FM Radio
 3	Broadcasting	Cellular Phone
@@ -323,7 +325,9 @@ USA Spectrum
 
 
 Ghana Spectrum
+
 	Application	        Type
+	
 1	Telecommunications	Mobile Cellular (2G/3G)
 2	Telecommunications	Broadband Wireless Access
 3	Telecommunications	Fixed Licence
@@ -338,16 +342,20 @@ Ghana Spectrum
 12	Telecommunications	Telemetry, SCADA, Alarms
 13	Telecommunications	Maritime Radio Services
 14	Telecommunications	Aeronautical Radio Services
+
 15	Broadcasting	Television Broadcasting
 16	Broadcasting	Radio FM Broadcasting
 17	Broadcasting	Amateur Radio
 18	Broadcasting	Satellite
+
 19	Standards	Type Approval
 20	Standards	Dealership
 21	Standards	DTT Conformance Certification
+
 22	Infrastructure	Infrastructure Licence (Nationwide or Metro Fibre)
 23	Infrastructure	Submarine Cable Landing
 24	Infrastructure	Mast & Towers
+
 25	Other Services	Communications Managed and Support Service Licence
 26	Other Services	Public Radio Equipment (PRE) or Land Mobile Services
 27	Other Services	Value Added Services (VAS)
