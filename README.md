@@ -102,9 +102,13 @@ The National Communications Authority (NCA) has published the National Frequency
 
 The objective of developing the NFAT is to maximize the efficient use of radio spectrum while assuring that spectrum is made available for new technologies and services. The table contains current uses of spectrum and those that may be used in future.
 
+
 ### Licensing and Authorisation:
 
-### Telecommunication
+
+### Applications
+
+#### Telecommunication
 1.  Telecommunications:
 2.  Mobile Cellular (2G/3G)
 3.  Broadband Wireless Access
@@ -122,28 +126,28 @@ The objective of developing the NFAT is to maximize the efficient use of radio s
 15. Aeronautical Radio Services
 
 
-### Broadcasting
+#### Broadcasting
 1.  Television Broadcasting:
 2.  Radio FM Broadcasting
 3.  Amateur Radio
 4.  Satellite
 
 
-### Standards
+#### Standards
 1.  Standards:
 2.  Type Approval
 3.  Dealership
 4.  DTT Conformance Certification
 
 
-### Infrastructure
+#### Infrastructure
 1.  Infrastructure:
 2.  Infrastructure Licence (Nationwide or Metro Fibre)
 3.  Submarine Cable Landing
 4.  Mast & Towers
 
 
-### Other Services
+#### Other Services
 1.  Other Services:
 2.  Communications Managed and Support Service Licence
 
