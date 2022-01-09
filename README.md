@@ -40,27 +40,28 @@
 26.  The spectrum life cycle approach recognizes the following three stages (i) pre-service; (ii) service provision; and (iii) post-service.
 
 
-## List of Spectrums Frequencies
+## List of Spectrum Frequencies
 A radio band is a small contiguous section of the radio spectrum frequencies, in which channels are usually used or set aside for the same purpose. To prevent interference and allow for efficient use of the radio spectrum, similar services are allocated in bands. For example, broadcasting, mobile radio, or navigation devices, will be allocated in non-overlapping ranges of frequencies.
-2	Bands
-2.1	ITU
-2.2	IEEE radar bands
-2.3	EU, NATO, US ECM frequency designations
-2.4	Waveguide frequency bands
-2.5	Comparison of radio band designation standards
 
-3	Applications
-3.1	Broadcasting
-3.2	Air band
-3.3	Marine band
-3.4	Amateur radio frequencies
-3.5	Citizens' band and personal radio services
-3.6	Industrial, scientific, medical
-3.7	Land mobile bands
-3.8	Radio control
-3.9	Radar
+### Bands
+1	ITU
+2	IEEE radar bands
+3	EU, NATO, US ECM frequency designations
+4	Waveguide frequency bands
+5	Comparison of radio band designation standards
 
-Also:
+### Applications
+1	Broadcasting
+2	Air band
+3	Marine band
+4	Amateur radio frequencies
+5	Citizens' band and personal radio services
+6	Industrial, scientific, medical
+7	Land mobile bands
+8	Radio control
+9	Radar
+
+### Also:
 1.  Bandplan 
 (A frequency plan, bandplan, band plan or wavelength plan is a plan for using a particular band of radio frequencies, that are a portion of the electromagnetic spectrum. Each frequency plan defines the frequency range to be included, how channels are to be defined, and what will be carried on those channels.)
 2.  Bandstacked 
@@ -104,77 +105,95 @@ The objective of developing the NFAT is to maximize the efficient use of radio s
 ### Licensing and Authorisation:
 
 ### Telecommunication
-Telecommunications:
-Mobile Cellular (2G/3G)
-Broadband Wireless Access
-Fixed Licence
-Interconnect Clearing House (ICH)
-Mobile Virtual Network Operations (MVNO)
-International Wholesale Carrier Licence
-Internet/Public Data Service Provision
-VSAT Licences
-Numbering (SIM, M2M, Short Codes etc.)
-International Inbound Traffic
-Microwave Authorisation
-Telemetry, SCADA, Alarms
-Maritime Radio Services
-Aeronautical Radio Services
+1.  Telecommunications:
+2.  Mobile Cellular (2G/3G)
+3.  Broadband Wireless Access
+4.  Fixed Licence
+5.  Interconnect Clearing House (ICH)
+6.  Mobile Virtual Network Operations (MVNO)
+7.  International Wholesale Carrier Licence
+8.  Internet/Public Data Service Provision
+9.  VSAT Licences
+10. Numbering (SIM, M2M, Short Codes etc.)
+11. International Inbound Traffic
+12. Microwave Authorisation
+13. Telemetry, SCADA, Alarms
+14. Maritime Radio Services
+15. Aeronautical Radio Services
+
 
 ### Broadcasting
-Television Broadcasting:
-Radio FM Broadcasting
-Amateur Radio
-Satellite
+1.  Television Broadcasting:
+2.  Radio FM Broadcasting
+3.  Amateur Radio
+4.  Satellite
+
 
 ### Standards
-Standards:
-Type Approval
-Dealership
-DTT Conformance Certification
+1.  Standards:
+2.  Type Approval
+3.  Dealership
+4.  DTT Conformance Certification
+
 
 ### Infrastructure
-Infrastructure:
-Infrastructure Licence (Nationwide or Metro Fibre)
-Submarine Cable Landing
-Mast & Towers
+1.  Infrastructure:
+2.  Infrastructure Licence (Nationwide or Metro Fibre)
+3.  Submarine Cable Landing
+4.  Mast & Towers
+
 
 ### Other Services
-Other Services:
-Communications Managed and Support Service Licence
+1.  Other Services:
+2.  Communications Managed and Support Service Licence
 
 
 
 ## Project Goal
-List the covered Spectrum
+List and Compare the covered Spectrum
 
 
 ## Project Factors
+...
 
 ## Questions to Investigate During Project
+What spectrums are licesed in the USA but in Ghana
+
 
 ## Roles
+John Essuman    Deputy Director of Research
+Dinah Bondzie   Data Engineer
+
 
 ## Technologies Used
-Database Storage
+
+### Database Storage
 pgAdmin - PostgreSQL
-AWS RDS
-Data Cleaning and Analysis
+
+### Data Cleaning and Analysis
 Juypter Notebook - Pandas
-Machine Learning Model
+
+### 
 Google Collab Notebook
-Presentation of Findings
+
+### Presentation of Findings
 Tableau Public
 GitHub
 
+
 ## Communication Protocol
+...
 
 
 
 # Data Exploration and Analysis Phases
+...
 
 ## Data Exploration and Analysis Overview
+...
 
 ## Datasets and Sources
+...
 
 ## Description of Data Sources
 [https://www.ctia.org/news/what-is-spectrum-a-brief-explainer]
@@ -191,37 +210,54 @@ google search
 []
 
 # Database
+...
 
 ## Steps in Building the Database
+...
 
 ## Data Dictionary
+...
 
 # ETL Method
+...
 
 ## Extracting the Data
+...
 
 ## Transforming the Data
+...
 
 ## Loading the Data
+...
 
 ## Handling Missing Values
+...
 
 # Machine Learning
+...
 
 ## Model Choice
+...
 
 ## Code for Random Forest Model
+...
 
 # Dashboard
+...
 
 # Conclusion
+...
 
 ## Results
+...
 
 ## Summary
+...
 
 ## Lessons Learned
+...
 
 ## Future Projects
+...
 
 .
