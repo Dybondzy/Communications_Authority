@@ -282,9 +282,9 @@ GitHub
 
 USA Spectrum
 	Application	  Type
-1	Broadcasting	Television
-2	Broadcasting	FM Radio
-3	Broadcasting	Cellular Phone
+1	Broadcasting	Television!
+2	Broadcasting	FM Radio!
+3	Broadcasting	Cellular Phone!
 4	Air band	VHF Radio
 5	Air band	HF Radio
 6	Marine band	Marine VHFRadio
