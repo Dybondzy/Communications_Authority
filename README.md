@@ -271,7 +271,15 @@ GitHub
 ...
 
 ## Steps in Building the Database
-...
+
+Define the fields required
+
+Extract Data on the net into Excel
+
+Use PGAdmin in to join the tables with SQL
+
+List the services covered and not covered
+
 
 ## Data Dictionary
 ...
