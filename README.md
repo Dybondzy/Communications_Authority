@@ -1,6 +1,6 @@
 # Communications_Authority
 
-1.  Explain the Spectrum Concept
+1.  Define project
 2.  Find types of Spectrums covered in the USA
 3.  Find types of Spectrums covered in the Ghana
 4.  Present findings
@@ -10,87 +10,35 @@
 
 ## Topic: Spectrum
 
-### Spectrum Introduction and Types
+## Background
+I was having a conversation with an old colleague when he mentioned that they had loads of spectrum survey data to go through and didn't know how.  So I volunteered to help sort the data and present the survey results in Tableau.  We decided to start first with a simple project of finding what spectrum is covered internationally (represented by the US) and in Africa (represented by Ghana.)
 
-1.  Spectrum is the invisible radio frequencies that wireless signals travel over.
-2.  Electromagnetic spectrum is the frequency for wireless use.
-3.  Portions of electromagnetic sprectrum are grouped in bands depending on their wavelengths.
-4.  The wavelength is thedistance over which the wave's shape repeats
-5.  The full electromagnetic spectrum ranges from 3Hz (extremely low frequency,) to 300 EHz (gamma rays.)
-6.  Wireless communication is from 20KHz to 300GHz.
-7.  Radio spectrum is the range of radio frequency that are used for communicating.
-8.  Spectrum is the entire range of frequencies, like a radio dial that goes up and down to locate an operating radio station, but expanded to assign to other users like mobile phones, satellite TV, air traffic control, or police radios.
-9.  Different bands have different characteristics
-10.  For wireless communication, spectrum has the three categories: low, mid, and high band spectrum.
-11.  All three bands are needed for a robust 5G network.
-12.  In the US, the Federal Communications Commission (FCC) oversees the commercial sprectrum allocation.
-13.  The FCC collborates with the National Telecommunications and Information Administration (NTIA) to oversee the government use of spectrum, international bodies, and congress.
-14.  FCC often allocates spectrum for commercial use through a spectrum auction, raising money for the US Treasury
-15.  Spectrum can be licensed (for exclusive use by specific providers,) or unlicensed (anyone can use the frequency.)
-16.  Both licensed and unlicensed spectrum serve important functions.
-17.  Bluetooth devices and Wi-Fi connections rely on unlicensed bands.
-18.  Spectrum is a finite resource, but it can be repurposed.
-19.  The FCC controls 60% of spectrum and regulations and legistlation can help identify bands that the government reallocate for commercial use.
-20.  Spectrum is a highly complex comcept and the core component of wireless communications; the benefits of 5G, smart cities, telemedicine. agricultural advencements, and more effective use.
-21.  Spectrum Management manages the use of the radio spectrum in order to minimize interference and ensure radio spectrum is used to its most efficient extent and benefit for the public.
-22.  The FCC manages and regulates all domestic non-federal spectrum use.
-23.  Efficient use and allocation of spectrum will allow the FCC to respond swiftly, maintain contact, and speedily resolve life-threatening situations. 
-24.  Effectively managing spectrum will be vital as the next generation of wireless technology – 5G – and the growing number of wireless devices comes on stream.
-25.  Spectrum regulation is to protect frequencies used by critical services by preventing harmful interference; identify opportunities to maximize efficiency; allow new technologies to develop and deploy within flexible frameworks; and, reduce the cost of telecommunication equipment.
-26.  The spectrum life cycle approach recognizes the following three stages (i) pre-service; (ii) service provision; and (iii) post-service.
+## Audience
+Possible board that decides on giving out Data Analysis contracts
 
+## Septrun Applications
 
-## List of Spectrum Frequencies
-A radio band is a small contiguous section of the radio spectrum frequencies, in which channels are usually used or set aside for the same purpose. To prevent interference and allow for efficient use of the radio spectrum, similar services are allocated in bands. For example, broadcasting, mobile radio, or navigation devices, will be allocated in non-overlapping ranges of frequencies.
+1.	Broadcasting
 
-### Bands
-1	ITU
-2	IEEE radar bands
-3	EU, NATO, US ECM frequency designations
-4	Waveguide frequency bands
-5	Comparison of radio band designation standards
+2.	Air band
 
+3.	Marine band
 
-### Applications
+4.	Amateur radio frequencies
 
-#### Broadcasting
-Designations for television and FM radio broadcast frequencies vary between countries, see Television channel frequencies and FM broadcast band. Since VHF and UHF frequencies are desirable for many uses in urban areas, in North America some parts of the former television broadcasting band have been reassigned to cellular phone and various land mobile communications systems. Even within the allocation still dedicated to television, TV-band devices use channels without local broadcasters.
+5.	Citizens' band and personal radio services
 
+6.	Industrial, scientific, medical
 
-#### Air band
-Airband refers to VHF frequencies 118 to 137 MHz, used for navigation and voice communication with aircraft. Trans-oceanic aircraft also carry HF radio and satellite transceivers.
+7.	Land mobile bands
 
+8.	Police radio and other public safety services such as fire departments and ambulances
 
-#### Marine band
-The greatest incentive for development of radio was the need to communicate with ships out of visual range of shore. From the very early days of radio, large oceangoing vessels carried powerful long-wave and medium-wave transmitters. High-frequency allocations are still designated for ships, although satellite systems have taken over some of the safety applications previously served by 500 kHz and other frequencies. 2182 kHz is a medium-wave frequency still used for marine emergency communication.
+9.	Radio control
 
+10.	Licensed amateur radio operators use portions of the 6-meter band in North America. Industrial remote control of cranes or railway locomotives use assigned frequencies that vary by area.
 
-#### Amateur radio frequencies
-Amateur radio frequency allocations vary around the world. Several bands are common for amateurs worldwide, usually in the HF part of the spectrum. Other bands are national or regional allocations only due to differing allocations for other services, especially in the VHF and UHF parts of the radio spectrum.
-
-
-#### Citizens' band and personal radio services
-Citizens' band radio is allocated in many countries, using channelized radios in the upper HF part of the spectrum (around 27 MHz). It is used for personal, small business and hobby purposes. Other frequency allocations are used for similar services in different jurisdictions, for example UHF CB is allocated in Australia. A wide range of personal radio services exist around the world, usually emphasizing short-range communication between individuals or for small businesses, simplified license requirements or in some countries covered by a class license, and usually FM transceivers using around 1 watt or less.
-
-
-#### Industrial, scientific, medical
-The ISM bands were initially reserved for non-communications uses of RF energy, such as microwave ovens, radio-frequency heating, and similar purposes. However, in recent years the largest use of these bands has been by short-range low-power communications systems, since users do not have to hold a radio operator's license. Cordless telephones, wireless computer networks, Bluetooth devices, and garage door openers all use the ISM bands. ISM devices do not have regulatory protection against interference from other users of the band.
-
-
-#### Land mobile bands
-Bands of frequencies, especially in the VHF and UHF parts of the spectrum, are allocated for communication between fixed base stations and land mobile vehicle-mounted or portable transceivers. In the United States these services are informally known as business band radio. See also Professional mobile radio.
-
-Police radio and other public safety services such as fire departments and ambulances are generally found in the VHF and UHF parts of the spectrum. Trunking systems are often used to make most efficient use of the limited number of frequencies available.
-
-
-#### Radio control
-Reliable radio control uses bands dedicated to the purpose. Radio-controlled toys may use portions of unlicensed spectrum in the 27 MHz or 49 MHz bands, but more costly aircraft, boat, or land vehicle models use dedicated radio control frequencies near 72 MHz to avoid interference by unlicensed uses. The 21st century has seen a move to 2.4 GHz spread spectrum RC control systems.
-
-Licensed amateur radio operators use portions of the 6-meter band in North America. Industrial remote control of cranes or railway locomotives use assigned frequencies that vary by area.
-
-
-#### Radar
-Radar applications use relatively high power pulse transmitters and sensitive receivers, so radar is operated on bands not used for other purposes. Most radar bands are in the microwave part of the spectrum, although certain important applications for meteorology make use of powerful transmitters in the UHF band.
+11.	Radar
 
 
 
