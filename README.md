@@ -66,7 +66,7 @@ Possible board that decides on giving out Data Analysis contracts
 
 9.  Orbit spectrum
 
-10.	R
+10. Radio astronomy
 
 11. Radio § Communication system
 
