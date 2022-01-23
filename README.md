@@ -111,23 +111,6 @@ Possible board that decides on giving out Data Analysis contracts
 4.  Satellite
 
 
-## Standards
-1.  Standards:
-2.  Type Approval
-3.  Dealership
-4.  DTT Conformance Certification
-
-
-## Infrastructure
-1.  Infrastructure:
-2.  Infrastructure Licence (Nationwide or Metro Fibre)
-3.  Submarine Cable Landing
-4.  Mast & Towers
-
-
-## Other Services
-1.  Other Services:
-2.  Communications Managed and Support Service Licence
 
 
 
@@ -139,6 +122,7 @@ List and Compare the covered Spectrum
 
 ## Questions to Investigate During Project
 What spectrums are licesed in the USA but not in Ghana
+
 
 
 ## Roles
@@ -178,19 +162,7 @@ Tableau Public
 GitHub
 
 
-## Communication Protocol
-...
 
-
-
-# Data Exploration and Analysis Phases
-...
-
-## Data Exploration and Analysis Overview
-...
-
-## Datasets and Sources
-...
 
 ## Description of Data Sources
 [https://www.ctia.org/news/what-is-spectrum-a-brief-explainer]
@@ -223,136 +195,14 @@ Extract Data on the net into Excel
 
 Use PGAdmin in to join the tables with SQL
 
-List the services covered and not covered
+Present results in Tableau and GitHub
 
 
-## Data Dictionary
-...
 
 # ETL Method
 ...
 
 
-USA Spectrum
 
-	Application	  Type
-	
-1	Broadcasting: 	Television
-2		FM Radio
-3		Cellular Phone
-
-4	Air band: 	VHF Radio
-5		HF Radio
-
-6	Marine band:  	Marine VHFRadio
-
-7	Amateur radio frequencies:  	VHF Radio
-8		HF Radio
-
-9	Citizens' band and personal radio services:  	UHF CB Radio
-
-10	Industrial, scientific, medical:  	Microwave Ovens
-11		Cordless Telephones
-12	Computer Networks
-13	Devices
-14	Garage Door Openers
-
-15	Land mobile bands:  	Base Stations
-16		Land Mobile / Portable Tranceivers
-17		Business Band Radio
-18		Professional Mobile Radio
-19		Police Radio
-20		Trunking Systems
-
-21	Radio control:  	Radio Control
-22		Unlicensed Spectrum
-23		Radio Control
-24		Amateur Radio
-25		6-meter band
-26		Railway Locomotives
-
-27	Radar:  	Radar
-28		Microwave
-29		Meteorology
-
-
-
-
-Ghana Spectrum
-
-	Application	        Type
-	
-1	Telecommunications:	Mobile Cellular (2G/3G)
-2		Broadband Wireless Access
-3		Fixed Licence
-4		Interconnect Clearing House (ICH)
-5		Mobile Virtual Network Operations (MVNO)
-6		International Wholesale Carrier Licence
-7		Internet/Public Data Service Provision
-8		VSAT Licences
-9		Numbering (SIM, M2M, Short Codes etc.)
-10		International Inbound Traffic
-11		Microwave Authorisation
-12		Telemetry, SCADA, Alarms
-13		Maritime Radio Services
-14		Aeronautical Radio Services
-
-15	Broadcasting:	Television Broadcasting
-16		Radio FM Broadcasting
-17		Amateur Radio
-18		Satellite
-
-19	Standards:	Type Approval
-20		Dealership
-21		DTT Conformance Certification
-
-22	Infrastructure:	Infrastructure Licence (Nationwide or Metro Fibre)
-23		Submarine Cable Landing
-24		Mast & Towers
-
-25	Other Services:	Communications Managed and Support Service Licence
-26		Public Radio Equipment (PRE) or Land Mobile Services
-27		Value Added Services (VAS)
-
-
-
-## Extracting the Data
-...
-
-## Transforming the Data
-...
-
-## Loading the Data
-...
-
-## Handling Missing Values
-...
-
-# Machine Learning
-...
-
-## Model Choice
-...
-
-## Code for Random Forest Model
-...
-
-# Dashboard
-...
-
-# Conclusion
-...
-
-## Results
-...
-
-## Summary
-...
-
-## Lessons Learned
-...
-
-## Future Projects
-...
 
 .
