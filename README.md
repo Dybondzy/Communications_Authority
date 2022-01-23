@@ -8,15 +8,19 @@
 
 # Project Topic, Background, Audience
 
-## Topic: Spectrum
+## Topic: 
+Spectrum Allocation
+
 
 ## Background
 I was having a conversation with an old colleague when he mentioned that they had loads of spectrum survey data to go through and didn't know how.  So I volunteered to help sort the data and present the survey results in Tableau.  We decided to start first with a simple project of finding what spectrum is covered internationally (represented by the US) and in Africa (represented by Ghana.)
 
+
 ## Audience
 Possible board that decides on giving out Data Analysis contracts
 
-## Septrun Applications
+
+# Spectrun Applications in the US
 
 1.	Broadcasting
 
@@ -79,15 +83,10 @@ Possible board that decides on giving out Data Analysis contracts
 17. Tremendously low frequency (TLF) (electromagnetic radiation, frequency below 3 Hz) [18]
 
 
-## Spectrum Allocation in Ghana
-The National Communications Authority (NCA) has published the National Frequency Allocation Table (NFAT) for wireless communications services in Ghana.  The NFAT is one of the most important tools for effective spectrum management; It details the uses of the various frequency bands for the numerous radio communication service categories in accordance with the Radio Regulations of the International Telecommunication Union (ITU).
 
-The objective of developing the NFAT is to maximize the efficient use of radio spectrum while assuring that spectrum is made available for new technologies and services. The table contains current uses of spectrum and those that may be used in future.
+# Spectrum Applications in Ghana
 
-
-## Spectrum Applications
-
-#### Telecommunication
+## Telecommunication
 1.  Telecommunications:
 2.  Mobile Cellular (2G/3G)
 3.  Broadband Wireless Access
@@ -105,39 +104,38 @@ The objective of developing the NFAT is to maximize the efficient use of radio s
 15. Aeronautical Radio Services
 
 
-#### Broadcasting
+## Broadcasting
 1.  Television Broadcasting:
 2.  Radio FM Broadcasting
 3.  Amateur Radio
 4.  Satellite
 
 
-#### Standards
+## Standards
 1.  Standards:
 2.  Type Approval
 3.  Dealership
 4.  DTT Conformance Certification
 
 
-#### Infrastructure
+## Infrastructure
 1.  Infrastructure:
 2.  Infrastructure Licence (Nationwide or Metro Fibre)
 3.  Submarine Cable Landing
 4.  Mast & Towers
 
 
-#### Other Services
+## Other Services
 1.  Other Services:
 2.  Communications Managed and Support Service Licence
 
 
 
-## Project Goal
+# Project Goal
 List and Compare the covered Spectrum
 
 
-## Project Factors
-...
+
 
 ## Questions to Investigate During Project
 What spectrums are licesed in the USA but not in Ghana
@@ -145,9 +143,10 @@ What spectrums are licesed in the USA but not in Ghana
 
 ## Roles
 
-John Essuman    Deputy Director of Research  -  Statement of Work
+John 		    	Deputy Director of Research  -  Statement of Work
 
-Dinah Bondzie   Data Engineer                -  Consultant / Project Lead
+Dinah Bondzie   	Data Engineer                -  Consultant / Project Lead
+
 
 X role --- 
 X: The member in the X role will decide which technologies will be used for each step of the project.
@@ -166,6 +165,7 @@ Circle: The member in the circle role will create a mockup of a database with a 
 
 ### Database Storage
 pgAdmin - PostgreSQL
+Excel
 
 ### Data Cleaning and Analysis
 Juypter Notebook - Pandas
